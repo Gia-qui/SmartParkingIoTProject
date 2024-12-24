@@ -1,1 +1,2 @@
 # SmartParkingIoTProject
+A smart parking is simulated with sensors and actuators. The architecture is composed of 2 sensors and 2 actuators. A java application coordinates the environment and sends commands to the actuators through the CoAP protocol based on the information published by the sensors to the broker exploiting the MQTT protocol. All of the behaviors were simulated and the actual sensors used are Nordic rF562840.
